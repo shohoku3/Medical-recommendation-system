@@ -1,0 +1,9 @@
+module.exports={
+	port:4000,
+	session:{
+		secret:'medical',
+		key:'medical',
+		maxAge:259200000
+	},
+	mongodb:'mongodb://localhost:27017/medical'
+}
