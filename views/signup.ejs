@@ -1,0 +1,46 @@
+<%- include('header') %>
+<div class="ui grid">
+    <div class="four wide column"></div>
+    <div class="eight wide column">
+        <div class="ui attached message">
+            <div class="header">
+                欢迎访问！
+            </div>
+            <p>填写下面的表格，注册一个新帐户</p>
+        </div>
+        <form class="ui form segment" method="post" enctype="multipart/form-data">
+            <div class="field required">
+                <label>用户名</label>
+                <input placeholder="用户名" type="text" name="name">
+            </div>
+            <div class="field required">
+                <label>电话号码</label>
+                <div class="three fields">
+                    <div class="field">
+                        <input type="text" placeholder="xxx" maxlength="3" name='areacode'>
+                    </div>
+                    <div class="field">
+                        <input type="text" placeholder="xxxx" maxlength="4" name='hostcode'>
+                    </div>
+                    <div class="field">
+                        <input type="text" placeholder="xxxx" maxlength="4" name='extcode'>
+                    </div>
+                </div>
+            </div>
+            <div class="field required">
+                <label>密码</label>
+                <input placeholder="密码" type="password" name="password">
+            </div>
+            <div class="field required">
+                <label>重复密码</label>
+                <input placeholder="重复密码" type="password" name="repassword">
+            </div>
+            <div class="field required">
+                <label>头像</label>
+                <input type="file" name="avatar">
+            </div>
+            <input type="submit" class="ui button fluid" value="注册">
+        </form>
+    </div>
+</div>
+<%- include('footer') %>

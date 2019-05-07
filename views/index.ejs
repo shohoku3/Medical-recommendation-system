@@ -1,0 +1,43 @@
+<%- include('header') %>
+<div class="container">
+    <div class="ui grid">
+        <% if (user) { %>
+        <div class="four wide column"></div>
+        <div class="eight wide column">
+            <div class="ui fluid action input">
+                <input type="text" placeholder="请输入关键词...">
+                <div class="ui button">搜索</div>
+            </div>
+            <div class="ui horizontal divider">
+                Or
+            </div>
+            <div class="ui message">
+                <div class="header">
+                    基于位置提供服务
+                </div>
+                <p>我们将会获取你的位置信息以为你提供更好的服务,但将由您来决定是否接受此服务。</p>
+                <br />
+                <button class="ui button">Accept</button>
+            </div>
+        </div>
+        <% } else { %>
+        <div class="four wide column"></div>
+        <div class="eight wide column">
+            <div class="ui message">
+                <i class="close icon"></i>
+                <div class="header">
+                    欢迎回来 
+                </div>
+                <p>如需使用如下服务请点击右侧菜单按钮登录,如果您还没有一个账号请先注册</p>
+                <ul class="list">
+                    <li>根据个人需求制定距离近，医疗条件好，实惠亲民的医院</li>
+                    <li>基于腾讯地图提供开发的开放的javascriptAPI</li>
+                    <li>用户搜索时，可以根据自己输入的信息来匹配到合理的医疗资源，医疗资源包括:1、医院的等级，科室，设备，药物资源情况《价格)，医师的相关信息:药店的药物资源情况及营业时间</li>
+                    <li>用户注册(注册用电话号码)时要求选择自己感兴趣的关键词信息，注册后整个页面有关于用户的个性化推荐(网页下方有根据用户的兴趣而推荐的医院或者医师)</li>
+                </ul>
+            </div>
+        </div>
+        <% } %>
+    </div>
+</div>
+<%- include('footer') %>

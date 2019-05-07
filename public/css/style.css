@@ -1,0 +1,88 @@
+/* ---------- 全局样式 ---------- */
+
+body {
+  width: 1100px;
+  height: 100%;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+a:hover {
+  border-bottom: 3px solid #4fc08d;
+}
+
+/*.button {
+  background-color: #4fc08d !important;
+  color: #fff !important;
+}*/
+
+.avatar {
+  border-radius: 3px;
+  width: 48px;
+  height: 48px;
+  float: right;
+}
+
+/* ---------- nav ---------- */
+
+.nav {
+  margin-bottom: 20px;
+  color: #999;
+  text-align: center;
+}
+
+.nav h1 {
+  color: #4fc08d;
+  display: inline-block;
+  margin: 10px 0;
+}
+/* ----------     back    ---------- */
+.back-btn{
+  position: fixed;
+  left: 30px;
+  top: 35px;
+  z-index: 999;
+}
+
+.back-btn .ui.dropdown.button {
+  padding: 10px 10px 0 10px;
+  background-color: #fff !important;
+}
+
+.back-btn .icon.arrow.left{
+  color: #000;
+  font-size: 18px;
+}
+/* ---------- nav-setting ---------- */
+
+.nav-setting {
+  position: fixed;
+  right: 30px;
+  top: 35px;
+  z-index: 999;
+}
+
+.nav-setting .ui.dropdown.button {
+  padding: 10px 10px 0 10px;
+  background-color: #fff !important;
+}
+
+.nav-setting .icon.bars {
+  color: #000;
+  font-size: 18px;
+}
+/* ---------- tag ---------- */
+.ui.label
+{
+  margin-top:8px;
+  cursor: pointer;
+}
+.ui.label:active
+{
+  color:#fff;
+  background:#4fc08d 
+}
+.ui.right.labeled.left.icon.input
+{
+  margin-top:15px 
+}

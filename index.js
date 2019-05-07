@@ -5,8 +5,9 @@ const MongoStore = require('connect-mongo')(session)
 const flash = require('connect-flash')
 const config = require('./config/default')
 const routes = require('./routes')
+const pkg = require('./package')
 
-const app= express();
+const app= express()
 
 // 设置模板目录
 app.set('views',path.join(__dirname,'views'))
@@ -30,6 +31,27 @@ app.use(session({
 }))
 
 app.use(flash())
+
+// 处理表单及文件上传的中间件
+app.use(require('express-formidable')({
+  uploadDir: path.join(__dirname, 'public/img'), // 上传文件目录
+  keepExtensions: true// 保留后缀
+}))
+
+// 设置模板全局常量
+app.locals.blog = {
+  title: pkg.name,
+  description: pkg.description
+}
+
+// 添加模板必需的三个变量
+app.use(function (req, res, next) {
+  res.locals.user = req.session.user
+  res.locals.success = req.flash('success').toString()
+  res.locals.error = req.flash('error').toString()
+  next()
+})
+
 
 routes(app)
 
