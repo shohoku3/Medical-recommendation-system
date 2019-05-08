@@ -18,8 +18,12 @@
 ##### 05-07
 - [x] 注册 登出功能
 - [ ] 无法解决fs.unlink 问题
-- [ ] 
-
+- [x] 无法解决多选下拉框数据被覆盖问题
+- [x] 寻找pc端精确定位解决方案
+- [x] 精确定位并显示位置 及附近医院的信息
+##### 05-07
+- [x] 实现基于浏览器的定位服务
+- [x] 实现content页面
 #### 参考
 - [A Programmer's Guide to Data Mining](http://www.guidetodatamining.com/)
 - [超级详细的协同过滤推荐系统+完整Python实现及结果](https://blog.csdn.net/qq_25948717/article/details/81839463)

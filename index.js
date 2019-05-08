@@ -7,16 +7,18 @@ const config = require('./config/default')
 const routes = require('./routes')
 const pkg = require('./package')
 
+
 const app= express()
 
 // 设置模板目录
 app.set('views',path.join(__dirname,'views'))
 // 设置模板引擎为 ejs
 app.set('view engine','ejs')
-
 // 设置静态文件目录
 app.use(express.static(path.join(__dirname, 'public')))
+// 设置req.body
 
+//session 
 app.use(session({
   name: config.session.key, // 设置 cookie 中保存 session id 的字段名称
   secret: config.session.secret, // 通过设置 secret 来计算 hash 值并放在 cookie 中，使产生的 signedCookie 防篡改
@@ -30,6 +32,7 @@ app.use(session({
   })
 }))
 
+// 挂载flash
 app.use(flash())
 
 // 处理表单及文件上传的中间件

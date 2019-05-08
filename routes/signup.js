@@ -11,28 +11,23 @@ const checkNotLogin = require('../lib/check').checkNotLogin
 router.get('/', checkNotLogin, function(req, res, next) {
     res.render('signup')
 })
-
 // POST /signup 用户注册
 router.post('/', checkNotLogin, function(req, res, next) {
     const name = req.fields.name
-    //const phonenum = req.fields.areacode+req.fields.hostcode+req.fields.extcode
     const avatar = req.files.avatar.path.split(path.sep).pop()
     let password = req.fields.password
     const repassword = req.fields.repassword
-
+    const json=req.fields
+    const phonenum=json['areacode']+json['hostcode']+json['extcode']
     // 校验参数
     try {
         if (!(name.length >= 1 && name.length <= 8)) {
             throw new Error('名字请限制在 1-8 个字符')
         }
-        /*if(!phonenum)
+        if(!phonenum)
         {
         	throw new Error('号码为空')
         }
-        if(phonenum.length!=11)
-        {
-        	throw new Error('号码位数不对')
-        }*/
         if (password.length < 6) {
             throw new Error('密码至少 6 个字符')
         }
@@ -44,7 +39,7 @@ router.post('/', checkNotLogin, function(req, res, next) {
         }
     } catch (e) {
         // 注册失败，异步删除上传的头像
-        fs.unlink(req.files.avatar.path)
+        //fs.unlink(req.files.avatar.path)
         req.flash('error', e.message)
         //重定向signup
         return res.redirect('/signup')
@@ -56,9 +51,9 @@ router.post('/', checkNotLogin, function(req, res, next) {
     // 待写入数据库的用户信息
     let user = {
         name: name,
-        //phonenum:phonenum,
+        phonenum:phonenum,
         password: password,
-        avatar: avatar
+        avatar: avatar,
     }
     // 用户信息写入数据库
     UserModel.create(user)
@@ -71,11 +66,11 @@ router.post('/', checkNotLogin, function(req, res, next) {
             // 写入 flash
             req.flash('success', '注册成功')
             // 跳转到tag页
-            res.redirect('/index')
+            res.redirect('/tag')
         })
         .catch(function(e) {
             // 注册失败，异步删除上传的头像
-            fs.unlink(req.files.avatar.path)
+            //fs.unlink(req.files.avatar.path)
             // 用户名被占用则跳回注册页，而不是错误页
             if (e.message.match('duplicate key')) {
                 req.flash('error', '用户名已被占用')
