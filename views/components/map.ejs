@@ -21,11 +21,27 @@ geolocation.getCurrentPosition(function(r) {
         map.addOverlay(mk);
         map.panTo(r.point);
         var local = new BMap.LocalSearch(map, {
-        renderOptions: {map: map, panel: "r-result"}
-    });
-        local.searchNearby('药店', r.point, 200);
+            onSearchComplete: function(results) {
+                var totalPois=results.getNumPois()
+                console.log(totalPois);
+                var totalPages = results.getNumPages();
+                console.log(totalPages);
+                var currPage = results.getPageIndex();
+                console.log(currPage);
+                if (currPage < totalPages - 1) {
+                    console.log(results.getCurrentNumPois());
+                    local.gotoPage(currPage + 1);
+                    //console.log(JSON.stringify(local.getResults().Ar));
+                    var json =JSON.stringify(local.getResults().Ar);
+                    $.post("/content", {value:json});
+                } else {
+                    console.log('Finish')
+                }
+            } ,pageCapacity:50
+        });
+        local.searchNearby('医院', r.point, 10000);
     } else {
         alert('failed' + this.getStatus());
     }
-}, { enableHighAccuracy: true })
+});
 </script>

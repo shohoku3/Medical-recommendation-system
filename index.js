@@ -17,7 +17,6 @@ app.set('view engine','ejs')
 // 设置静态文件目录
 app.use(express.static(path.join(__dirname, 'public')))
 // 设置req.body
-
 //session 
 app.use(session({
   name: config.session.key, // 设置 cookie 中保存 session id 的字段名称
@@ -31,7 +30,6 @@ app.use(session({
     url: config.mongodb// mongodb 地址
   })
 }))
-
 // 挂载flash
 app.use(flash())
 

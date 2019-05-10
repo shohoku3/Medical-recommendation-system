@@ -21,9 +21,18 @@
 - [x] 无法解决多选下拉框数据被覆盖问题
 - [x] 寻找pc端精确定位解决方案
 - [x] 精确定位并显示位置 及附近医院的信息
-##### 05-07
+##### 05-08
 - [x] 实现基于浏览器的定位服务
 - [x] 实现content页面
+##### 05-09
+- [x] 显示重复问题
+- [ ] dulpatekey 问题
+- [x] 大于1km时出现以上问题
+##### 05-10
+- [x] 实现跳页 但页面被限制在15页
+- [x] 数据接口 极限150条
+- [x] 单页容量 50
+- [x] python 操作写入并爬取更多数据
 #### 参考
 - [A Programmer's Guide to Data Mining](http://www.guidetodatamining.com/)
 - [超级详细的协同过滤推荐系统+完整Python实现及结果](https://blog.csdn.net/qq_25948717/article/details/81839463)

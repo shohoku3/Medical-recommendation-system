@@ -1,0 +1,104 @@
+<div class="ui sticky" id="map">
+    <div id="allmap"></div>
+</div>
+<script type="text/javascript">
+// 百度地图API功能
+var map = new BMap.Map("allmap");
+var point = new BMap.Point(116.331398, 39.897445);
+map.enableScrollWheelZoom();
+map.centerAndZoom(point, 16);
+
+var top_left_control = new BMap.ScaleControl({ anchor: BMAP_ANCHOR_TOP_LEFT }); // 左上角，添加比例尺
+var top_left_navigation = new BMap.NavigationControl(); //左上角，添加默认缩放平移控件
+var top_right_navigation = new BMap.NavigationControl({ anchor: BMAP_ANCHOR_TOP_RIGHT, type: BMAP_NAVIGATION_CONTROL_SMALL }); //右上角
+
+map.addControl(top_left_control);
+map.addControl(top_left_navigation);
+        var options = {
+            onSearchComplete: function(results) {
+                // 判断状态是否正确
+                if (local.getStatus() == BMAP_STATUS_SUCCESS) {
+                    var s = [];
+                    var numPage = results.getNumPages()
+                    /*for (var j = 1; j < results.getNumPages(); j++) {*/
+                        for (var i = 0; i < results.getNumPois(); i++) {
+                            s.push(results.getPoi(i).title + ", " + results.getPoi(i).address);
+                            $.get("/content",{"value":results.getPoi(i)})
+                            var ui_items = document.getElementById('ui_items');
+                            var item = document.createElement('div');
+                            item.className = 'item';
+                            ui_items.appendChild(item);
+                            var ui_message=document.createElement('div');
+                            ui_message.className='ui message';
+                            item.appendChild(ui_message);
+                            var ui_grid=document.createElement('div');
+                            ui_grid.className='ui grid';
+                            ui_message.appendChild(ui_grid);
+                            var left_wide_column=document.createElement('div');
+                            left_wide_column.className='four wide column';
+                            ui_grid.appendChild(left_wide_column);
+                            var middle_wide_column=document.createElement('div');
+                            middle_wide_column.className='five wide column';
+                            ui_grid.appendChild(middle_wide_column);
+                            var middle_wide_column2=document.createElement('div');
+                            middle_wide_column2.className='four wide column';
+                            ui_grid.appendChild(middle_wide_column2);
+                            var right_wide_column=document.createElement('div');
+                            right_wide_column.className='three wide column';
+                            ui_grid.appendChild(right_wide_column);
+                            var ui_small_image=document.createElement('div');
+                            ui_small_image.className='ui small image';
+                            left_wide_column.appendChild(ui_small_image);
+                            var item_img=document.createElement('img')
+                            item_img.src='https://p0.meituan.net/320.0/tdchotel/0d0106b7799dc8e10d374fb1c67765ac4715059.jpg'
+                            ui_small_image.appendChild(item_img);
+                            var content = document.createElement('div');
+                            content.className = 'content';
+                            middle_wide_column.appendChild(content);
+                            var header = document.createElement('div');
+                            header.className = 'header';
+                            header.innerHTML = results.getPoi(i).title;
+                            content.appendChild(header);
+                            var meta = document.createElement('div');
+                            meta.className = 'meta';
+                            content.appendChild(meta);
+                            var address = document.createElement('span');
+                            address.className = 'address';
+                            address.innerHTML = results.getPoi(i).address;
+                            meta.appendChild(address);
+                            var phoneNum = document.createElement('span');
+                            phoneNum.className = 'phonenum';
+                            phoneNum.innerHTML = results.getPoi(i).phoneNumber;
+                            meta.appendChild(phoneNum);
+                            var description = document.createElement('div');
+                            description.className = 'description';
+                            content.appendChild(description);
+                            var extra = document.createElement('div');
+                            extra.className = 'extra';
+                            right_wide_column.appendChild(extra);
+                            var btn=document.createElement('a');
+                            btn.className='ui right floated primary button';
+                            btn.href=results.getPoi(i).detailUrl;
+                            btn.innerHTML='查看详情';
+                            extra.appendChild(btn);
+                            if (results.getPoi(i).tags != undefined) {
+                                for (var value of results.getPoi(i).tags) {
+                                    var label = document.createElement('div');
+                                    label.className = 'ui label';
+                                    label.innerHTML = value;
+                                    content.appendChild(label);
+                                }
+                            } else {
+                                var label = document.createElement('div');
+                                label.className = 'ui label';
+                                label.innerHTML = '未知';
+                                content.appendChild(label);
+                                continue;
+                            }
+                        }
+                    }
+                }
+            };
+        var local = new BMap.LocalSearch(map, options);
+        local.search("公园");
+</script>
