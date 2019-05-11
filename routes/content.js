@@ -18,14 +18,14 @@ router.post('/', function(req, res) {
             var title = jsonresult.title;
             var detailUrl = jsonresult.detailUrl;
             var address = jsonresult.address;
-            if(phoneNumber in jsonresult){
+            if(jsonresult.hasOwnProperty('phoneNumber')){
                  var phoneNumber = jsonresult.phoneNumber.toString();
             }
             else
             {
                 var phoneNumber='null';
             }
-            if(tags in jsonresult){
+            if(jsonresult.hasOwnProperty('tags')){
                 var tags=jsonresult.tags.toString();
             }
             else
