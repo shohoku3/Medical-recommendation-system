@@ -1,0 +1,251 @@
+﻿_id,uid,title,detailUrl,address,phoneNumber,tags
+5cd525072b653229002b6064,45bf9333c65ca1d45b10934c,武警陕西省总队医院,http://api.map.baidu.com/place/detail?uid=45bf9333c65ca1d45b10934c&output=html&source=jsapi,西安市碑林区南二环东段88号,"(029)82231515,(029)82232524,(029)82223616",null
+5cd525072b653229002b6065,d7fd2ad37ace8d4d0accddef,西安高新医院,http://api.map.baidu.com/place/detail?uid=d7fd2ad37ace8d4d0accddef&output=html&source=jsapi,西安市雁塔区团结南路16号,(029)88330120,"医疗,综合<font color=""#c60a00"">医院</font>,三级<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6066,efc1259d03983e03f6c59c4c,中国人民解放军空军军医大学986医院南区,http://api.map.baidu.com/place/detail?uid=efc1259d03983e03f6c59c4c&output=html&source=jsapi,西安市碑林区建设西路6号,"(029)84756114,(029)84756189",医疗
+5cd525072b653229002b6067,6ee01020825aa1ef52e5c54f,西安北环医院,http://api.map.baidu.com/place/detail?uid=6ee01020825aa1ef52e5c54f&output=html&source=jsapi,西安市未央区重光路59号,(029)86717229,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6068,78bd50f7d611a14230870aa1,陕西省康复医院,http://api.map.baidu.com/place/detail?uid=78bd50f7d611a14230870aa1&output=html&source=jsapi,西安市雁塔区电子二路52号,"(029)88210679,(029)88233216","医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6069,be1ea5efe36988a614948e56,西安交通大学医学院第一附属医院,http://api.map.baidu.com/place/detail?uid=be1ea5efe36988a614948e56&output=html&source=jsapi,西安市雁塔区雁塔西路277号,null,"医疗,综合<font color=""#c60a00"">医院</font>,三级<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b606b,e85e2527387ae34a95f08c54,陕西省第二人民医院,http://api.map.baidu.com/place/detail?uid=e85e2527387ae34a95f08c54&output=html&source=jsapi,西安市新城区尚勤路3号,(029)87421012,null
+5cd525072b653229002b606c,782a7630b8e41f48f82213b3,中国人民解放军第五一八医院,http://api.map.baidu.com/place/detail?uid=782a7630b8e41f48f82213b3&output=html&source=jsapi,西安市新城区卫星路卫星监测中心东隔壁,"(029)84761623,(029)84761608",null
+5cd525072b653229002b606a,cc0849a07236da5094031954,中铁一局西安中心医院,http://api.map.baidu.com/place/detail?uid=cc0849a07236da5094031954&output=html&source=jsapi,西安市碑林区南二环东段319号,(029)87865777,null
+5cd525072b653229002b606d,881a28e7a5708e5ef942b27b,陕西省中医医院,http://api.map.baidu.com/place/detail?uid=881a28e7a5708e5ef942b27b&output=html&source=jsapi,西安市莲湖区西华门2号,(029)87213310,医疗
+5cd525072b653229002b606f,7fd6f433e7c94208626858c9,中航工业西安医院,http://api.map.baidu.com/place/detail?uid=7fd6f433e7c94208626858c9&output=html&source=jsapi,西安市莲湖区大庆路副24号,null,"医疗,综合医院"
+5cd525072b653229002b6070,11950cb8e8cada5da21de95a,西安市雁塔区中医医院,http://api.map.baidu.com/place/detail?uid=11950cb8e8cada5da21de95a&output=html&source=jsapi,西安市雁塔区长安南路495号,(029)85562009,null
+5cd525072b653229002b6071,6ba826d6f41e2200e81e970b,西电集团医院,http://api.map.baidu.com/place/detail?uid=6ba826d6f41e2200e81e970b&output=html&source=jsapi,西安市莲湖区丰登路97号,(029)84208888,null
+5cd525072b653229002b6072,02a15a0ea6e4ae802cb17e12,西安交大第二附属医院,http://api.map.baidu.com/place/detail?uid=02a15a0ea6e4ae802cb17e12&output=html&source=jsapi,西安市新城区西五路157号,(029)87678421,null
+5cd525072b653229002b6074,5024d800c3f92621aecb66ef,西安市中医医院,http://api.map.baidu.com/place/detail?uid=5024d800c3f92621aecb66ef&output=html&source=jsapi,西安市未央区凤城八路69号,(029)89626201,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6075,14129f51431c553272455bcc,西安中医脑病医院,http://api.map.baidu.com/place/detail?uid=14129f51431c553272455bcc&output=html&source=jsapi,西安市灞桥区矿山路368号,(029)88223333,null
+5cd525072b653229002b6076,06f2790947319bffab175ad8,西安市第三医院,http://api.map.baidu.com/place/detail?uid=06f2790947319bffab175ad8&output=html&source=jsapi,西安市未央区凤城三路东段10号   ,null,"医疗,综合<font color=""#c60a00"">医院</font>,三级<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6077,3fdce332eeac656feb12e43a,西安市第九医院,http://api.map.baidu.com/place/detail?uid=3fdce332eeac656feb12e43a&output=html&source=jsapi,西安市碑林区南二环路东段151号,"(029)82322257,(029)82322548","医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b606e,72e57fd7a76256b6f8dc8545,西安电力中心医院,http://api.map.baidu.com/place/detail?uid=72e57fd7a76256b6f8dc8545&output=html&source=jsapi,西安市新城区长缨东路99号,(029)81004222,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6079,a949a3a3065663701894c6db,西安华仁医院,http://api.map.baidu.com/place/detail?uid=a949a3a3065663701894c6db&output=html&source=jsapi,西安市碑林区文艺北路180号,null,医疗
+5cd525072b653229002b607a,c8e8f633e507a36fab0dd871,西安未央正泰医院,http://api.map.baidu.com/place/detail?uid=c8e8f633e507a36fab0dd871&output=html&source=jsapi,西安市未央区纬二十六街59号,(029)86239989,null
+5cd525072b653229002b607b,8ab0dfc4cb193c0fd8eced09,西安市中心医院,http://api.map.baidu.com/place/detail?uid=8ab0dfc4cb193c0fd8eced09&output=html&source=jsapi,西安市新城区西五路161号,(029)62812802,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b607c,43b7e8891511c97359f6bea7,西安雁塔女子医院,http://api.map.baidu.com/place/detail?uid=43b7e8891511c97359f6bea7&output=html&source=jsapi,西安市雁塔区含光南路附1号,"(029)82306650,(029)85421118",null
+5cd525072b653229002b6073,03d43218828bac6d9122e02d,西安市红会医院,http://api.map.baidu.com/place/detail?uid=03d43218828bac6d9122e02d&output=html&source=jsapi,西安市碑林区南稍门友谊东路555号,"(029)87800002,(029)87889576",null
+5cd525072b653229002b607e,64ff3be1e4b352a291114ca5,长安医院,http://api.map.baidu.com/place/detail?uid=64ff3be1e4b352a291114ca5&output=html&source=jsapi,西安市未央区经济技术开发区文景路17号,(029)83668888,医疗
+5cd525072b653229002b607f,060f5e53ed73dace081cc753,西安市第一医院,http://api.map.baidu.com/place/detail?uid=060f5e53ed73dace081cc753&output=html&source=jsapi,西安市碑林区粉巷31号,(029)87630799,"医疗,综合<font color=""#c60a00"">医院</font>,三级<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6078,480b24d03341aff19cec2b5b,西安日化医院,http://api.map.baidu.com/place/detail?uid=480b24d03341aff19cec2b5b&output=html&source=jsapi,西安市丈八北路7号,(029)84280512,"医疗,综合医院"
+5cd525072b653229002b6080,cb06b2f09f0de6564107c1c3,西安莲湖协和医院,http://api.map.baidu.com/place/detail?uid=cb06b2f09f0de6564107c1c3&output=html&source=jsapi,西安市莲湖区汉城南路149号,(029)84221982,"医疗,综合医院"
+5cd525072b653229002b6081,c8e8f63388e60011ab0dd813,西京医院-门诊部,http://api.map.baidu.com/place/detail?uid=c8e8f63388e60011ab0dd813&output=html&source=jsapi,长乐西路127号,(029)84775507,"医疗,下属科室机构"
+5cd525072b653229002b6083,cb99892ad208d0556d20b953,西安马应龙肛肠医院,http://api.map.baidu.com/place/detail?uid=cb99892ad208d0556d20b953&output=html&source=jsapi,西安市新城区尚勤路435号,"(029)86279126,(029)86258655",医疗
+5cd525072b653229002b607d,08abe86cab64c021e912e4a1,西安市儿童医院(东区),http://api.map.baidu.com/place/detail?uid=08abe86cab64c021e912e4a1&output=html&source=jsapi,陕西省西安市新城区长缨东路99号,null,null
+5cd525072b653229002b6084,dfc496b6883095d28936ee01,西安市碑林区中医医院,http://api.map.baidu.com/place/detail?uid=dfc496b6883095d28936ee01&output=html&source=jsapi,西安市碑林区东羊市街38号,null,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6085,920b66da8b598d1181a12e95,西安长峰医院,http://api.map.baidu.com/place/detail?uid=920b66da8b598d1181a12e95&output=html&source=jsapi,陕西省西安市莲湖区南二环西段公园国际旁,(029)83312530,null
+5cd525072b653229002b6086,5e53af1aa43cca464051c0a1,西安市新城区中医医院,http://api.map.baidu.com/place/detail?uid=5e53af1aa43cca464051c0a1&output=html&source=jsapi,西安市新城区案板街9号,(029)87213503,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6082,df10729ca1f88d1628201acb,长安大学医院,http://api.map.baidu.com/place/detail?uid=df10729ca1f88d1628201acb&output=html&source=jsapi,西安市雁塔区南二环中段,(029)82334922,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6088,bb8e0388f83adbcd6f3e1b6c,西安莲湖天颐堂中医医院,http://api.map.baidu.com/place/detail?uid=bb8e0388f83adbcd6f3e1b6c&output=html&source=jsapi,西安市莲湖区自强西路110号,(029)88885858,null
+5cd525072b653229002b6087,6a4321127338cf6dcb213d33,陕西冶金医院,http://api.map.baidu.com/place/detail?uid=6a4321127338cf6dcb213d33&output=html&source=jsapi,西安市雁塔区西影路30号,(029)85332222,null
+5cd525072b653229002b6089,550fd5f974459860921fc9ad,陕西中医肝肾病医院,http://api.map.baidu.com/place/detail?uid=550fd5f974459860921fc9ad&output=html&source=jsapi,西安市莲湖区龙首北路154号,"(029)81337799,(029)86290086,(029)86290177",null
+5cd525072b653229002b608a,e2c734e414422a4414a190b2,陕西省第四人民医院,http://api.map.baidu.com/place/detail?uid=e2c734e414422a4414a190b2&output=html&source=jsapi,西安市新城区咸宁东路512号,(029)82626314,医疗
+5cd525072b653229002b608b,b35762ce86549ede17c8f6b4,西安雁塔新大华医院,http://api.map.baidu.com/place/detail?uid=b35762ce86549ede17c8f6b4&output=html&source=jsapi,西安市雁塔区丁白路92号,(029)88609389,null
+5cd525072b653229002b608c,314ba53dac3f9b80734b873b,西安大秦中医医院,http://api.map.baidu.com/place/detail?uid=314ba53dac3f9b80734b873b&output=html&source=jsapi,西大街330号安定广场1楼2楼,(029)87349602,null
+5cd525072b653229002b608d,7c5e480b3b9112adacb22abb,西安雁塔藻露堂中医医院,http://api.map.baidu.com/place/detail?uid=7c5e480b3b9112adacb22abb&output=html&source=jsapi,西安市雁塔区小寨西路15号华雁大厦,(029)85248911,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b608e,750990a483e76d9dc056acad,医保中心,http://api.map.baidu.com/place/detail?uid=750990a483e76d9dc056acad&output=html&source=jsapi,西安市新城区长缨东路99号,null,null
+5cd525072b653229002b608f,1a3c51eb5caf6c5d5bf6be38,六一八医院,http://api.map.baidu.com/place/detail?uid=1a3c51eb5caf6c5d5bf6be38&output=html&source=jsapi,陕西省西安市电子一路233号,null,"医疗,综合医院"
+5cd525072b653229002b6090,608a4a30c79d807728b97c07,西电集团医院医疗综合楼,http://api.map.baidu.com/place/detail?uid=608a4a30c79d807728b97c07&output=html&source=jsapi,陕西省西安市莲湖区丰登路97号,null,"医疗,下属科室机构"
+5cd525072b653229002b6091,2fd2beab9496e94b7adbd25a,西安友泰医院,http://api.map.baidu.com/place/detail?uid=2fd2beab9496e94b7adbd25a&output=html&source=jsapi,西安市未央区未央路96号,null,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6092,bc6a7c87810788bed6851fae,西京医院住院-三部,http://api.map.baidu.com/place/detail?uid=bc6a7c87810788bed6851fae&output=html&source=jsapi,长乐西路街道长乐西路127号,null,"医疗,下属科室机构"
+5cd525072b653229002b6093,96b672aa8f468b75ce04ef4f,西安莲湖怡康长安康泰医院,http://api.map.baidu.com/place/detail?uid=96b672aa8f468b75ce04ef4f&output=html&source=jsapi,陕西省西安市莲湖区自强西路196号,null,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6094,9fbfeef24808775cece4a598,西安市北方医院,http://api.map.baidu.com/place/detail?uid=9fbfeef24808775cece4a598&output=html&source=jsapi,西安市新城区长乐中路170号,(029)83214501,null
+5cd525072b653229002b6095,35debf29cf57e444a6da394f,西安莲湖京华医院,http://api.map.baidu.com/place/detail?uid=35debf29cf57e444a6da394f&output=html&source=jsapi,西安市莲湖区沣镐东路102号,(029)84247353,null
+5cd525072b653229002b6096,41c21b682642ad326140a9f7,西安大兴医院,http://api.map.baidu.com/place/detail?uid=41c21b682642ad326140a9f7&output=html&source=jsapi,西安市莲湖区劳动北路353号,(029)86311275,null
+5cd525072b653229002b6097,e889a7442c46e9ac8605bf68,西安莲湖华中医院,http://api.map.baidu.com/place/detail?uid=e889a7442c46e9ac8605bf68&output=html&source=jsapi,西安市莲湖区西关正街149号,"(029)87340020,(029)88622282","医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b6098,8a0cb950e285c41b2cb96db8,国医中医院,http://api.map.baidu.com/place/detail?uid=8a0cb950e285c41b2cb96db8&output=html&source=jsapi,莲湖路137号洒金桥D出口旁,null,null
+5cd525072b653229002b6099,59450ba0ffd21a59a11de999,陕西省交通医院-门诊楼,http://api.map.baidu.com/place/detail?uid=59450ba0ffd21a59a11de999&output=html&source=jsapi,陕西省西安市碑林区大学南路276号陕西省交通医院,null,"医疗,下属科室机构"
+5cd525072b653229002b609a,973ba5f698b1d0880bccdde3,强森医疗融侨分院,http://api.map.baidu.com/place/detail?uid=973ba5f698b1d0880bccdde3&output=html&source=jsapi,陕西省西安市雁塔区电子六路融桥馨苑星光大道会所西楼,(029)88922158,null
+5cd525072b653229002b609b,91973419d88e5b2bf4eafcc3,西安凤城医院,http://api.map.baidu.com/place/detail?uid=91973419d88e5b2bf4eafcc3&output=html&source=jsapi,西安市未央区凤城三路9号,(029)86530955,null
+5cd525072b653229002b609c,1229256e009c490b100daa4b,丈八社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=1229256e009c490b100daa4b&output=html&source=jsapi,陕西省西安市高新六路28号(茶张路南),null,"医疗,社区医疗/诊所/卫生所"
+5cd525072b653229002b609d,9c43c9f183a8127ec5effbca,中国兵器工业第二0四研究所职工医院,http://api.map.baidu.com/place/detail?uid=9c43c9f183a8127ec5effbca&output=html&source=jsapi,西安市丈八东路55号,null,"医疗,综合医院"
+5cd525072b653229002b609e,62e29b0ee608e33522f01749,陕西省人民医院,http://api.map.baidu.com/place/detail?uid=62e29b0ee608e33522f01749&output=html&source=jsapi,西安市碑林区黄雁村友谊西路256号,(029)85251331,医疗
+5cd525072b653229002b609f,d146b38804724aa07402690f,陕西省康复医院-住院楼,http://api.map.baidu.com/place/detail?uid=d146b38804724aa07402690f&output=html&source=jsapi,电子二路52号陕西省康复医院内,null,"医疗,下属科室机构"
+5cd525072b653229002b60a0,6dd595c8b05735cf0482c247,璞太和中医馆(莲湖路店),http://api.map.baidu.com/place/detail?uid=6dd595c8b05735cf0482c247&output=html&source=jsapi,莲湖路10号,null,null
+5cd525072b653229002b60a1,ee4689a84d0f5ea8cf06a473,第四军医大学西京脑科医院,http://api.map.baidu.com/place/detail?uid=ee4689a84d0f5ea8cf06a473&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院西京消化病医院F15,null,"医疗,下属科室机构"
+5cd525072b653229002b60a2,64ff3be1ef972ba290114c41,陕西省新安中心医院,http://api.map.baidu.com/place/detail?uid=64ff3be1ef972ba290114c41&output=html&source=jsapi,西安市雁塔区二环南路东段36号,(029)88137131,null
+5cd525072b653229002b60a3,6deee30897eab67329fc4815,中国人民解放军第四五一医院,http://api.map.baidu.com/place/detail?uid=6deee30897eab67329fc4815&output=html&source=jsapi,西安市碑林区友谊东路269号,null,"医疗,社区医疗/诊所/卫生所"
+5cd525072b653229002b60a4,c1ca1457f5ce3ec63be4a691,西安碑林健和堂中医医院,http://api.map.baidu.com/place/detail?uid=c1ca1457f5ce3ec63be4a691&output=html&source=jsapi,西安市碑林区互助路2号,null,"医疗,社区医疗/诊所/卫生所"
+5cd525072b653229002b60a5,62d60c1eca56c7a70289728b,西安雁塔佲德中医医院,http://api.map.baidu.com/place/detail?uid=62d60c1eca56c7a70289728b&output=html&source=jsapi,西安市雁塔区朱雀大街南段36号明德门小区南新区13号楼1层2层,(029)85454573,null
+5cd525072b653229002b60a6,909525ca5d7410bbddee8b62,西安长峰机电研究所医院,http://api.map.baidu.com/place/detail?uid=909525ca5d7410bbddee8b62&output=html&source=jsapi,西安市雁塔区电子一路86号,null,null
+5cd525072b653229002b60a7,550fd5f90fe1f304931fc9ed,西安市第五医院,http://api.map.baidu.com/place/detail?uid=550fd5f90fe1f304931fc9ed&output=html&source=jsapi,陕西省西安市莲湖区西关正街112号,"(029)84696442,(029)84696356",null
+5cd525072b653229002b60a8,251374c950e1be26a01de9e2,西安莲湖大唐医院,http://api.map.baidu.com/place/detail?uid=251374c950e1be26a01de9e2&output=html&source=jsapi,西安市新城区北关正街3号,(029)86352856,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b60a9,00e1cff0626b54c39900505b,西安交通大学第二附属医院医疗联合体医院,http://api.map.baidu.com/place/detail?uid=00e1cff0626b54c39900505b&output=html&source=jsapi,西安市未央区,null,null
+5cd525072b653229002b60aa,f5c8cd4c6867eadb3a04b144,西安交通大学医学院第二附属医院西北医院预防保健与社区服务部,http://api.map.baidu.com/place/detail?uid=f5c8cd4c6867eadb3a04b144&output=html&source=jsapi,西五路100-1号附近,null,null
+5cd525072b653229002b60ab,bc768e7d12b212d92ce67b1b,西安新城宏道中医院,http://api.map.baidu.com/place/detail?uid=bc768e7d12b212d92ce67b1b&output=html&source=jsapi,西安市新城区,null,null
+5cd525072b653229002b60ac,4edf9fbf4b90ea8dcc06a45a,西安唐城医院(啤酒路),http://api.map.baidu.com/place/detail?uid=4edf9fbf4b90ea8dcc06a45a&output=html&source=jsapi,西安市未央区太华南路99号,(029)82109999,null
+5cd525072b653229002b60ad,af067cec628a30646cc02c37,陕西省第二人民医院(新城区医疗联合体),http://api.map.baidu.com/place/detail?uid=af067cec628a30646cc02c37&output=html&source=jsapi,纱厂街1号附近,null,null
+5cd525072b653229002b60ae,3dc4ed32acff690a6240a9fe,西北大学医院,http://api.map.baidu.com/place/detail?uid=3dc4ed32acff690a6240a9fe&output=html&source=jsapi,陕西省西安市碑林区大学南路91,null,null
+5cd525072b653229002b60af,464e58a1a13a158d76e5b679,西安未央正泰医院国医馆,http://api.map.baidu.com/place/detail?uid=464e58a1a13a158d76e5b679&output=html&source=jsapi,西安市未央区永兴路与龙首北路西段交叉口东北100米,null,null
+5cd525072b653229002b60b0,a6a36284266c866915a190ec,西京医院办公楼,http://api.map.baidu.com/place/detail?uid=a6a36284266c866915a190ec&output=html&source=jsapi,陕西省西安市新城区长乐西路127号,null,null
+5cd525072b653229002b60b1,e85e252738cfe34a95f08c2b,陕西省妇幼保健院,http://api.map.baidu.com/place/detail?uid=e85e252738cfe34a95f08c2b&output=html&source=jsapi,西安市新城区后宰门73号,null,"生活服务,便利店"
+5cd525072b653229002b60b2,51864b1e28b319358c55ec47,西安医学院第一附属医院-2号楼,http://api.map.baidu.com/place/detail?uid=51864b1e28b319358c55ec47&output=html&source=jsapi,陕西省西安市莲湖区西安医学院第一附属医院南,null,"医疗,下属科室机构"
+5cd525072b653229002b60b3,2cbfbebaf66237f72b11d1da,西安市交通大学第二附属医院观察室,http://api.map.baidu.com/place/detail?uid=2cbfbebaf66237f72b11d1da&output=html&source=jsapi,西五路157号,null,null
+5cd525072b653229002b60b4,ab086b167ea13e8f9868b49e,第四五一医院腹腔镜医院,http://api.map.baidu.com/place/detail?uid=ab086b167ea13e8f9868b49e&output=html&source=jsapi,友谊东路269号,null,null
+5cd525072b653229002b60b5,327818f1d9ad1c4487154157,西京医院-器材设备科,http://api.map.baidu.com/place/detail?uid=327818f1d9ad1c4487154157&output=html&source=jsapi,康复路附近,null,"医疗,下属科室机构"
+5cd525072b653229002b60b6,495e9c08cb58800d471a326e,西安市红会医院设备科,http://api.map.baidu.com/place/detail?uid=495e9c08cb58800d471a326e&output=html&source=jsapi,陕西省西安市碑林区南稍门红十字会医院,null,null
+5cd525072b653229002b60b7,bb3934b90cc470480189724b,西安未央正泰医院-B超检查室,http://api.map.baidu.com/place/detail?uid=bb3934b90cc470480189724b&output=html&source=jsapi,纬二十六街59号西安未央正泰医院2层,null,"医疗,下属科室机构"
+5cd525072b653229002b60b8,2033f9f015ec15dca01de98d,西安交通大学第二附属医院新楼,http://api.map.baidu.com/place/detail?uid=2033f9f015ec15dca01de98d&output=html&source=jsapi,西五路157号,(029)87679323,"医疗,综合医院"
+5cd525072b653229002b60b9,02f8c786f1c0e2a7077ce813,陕西省人民医院肾移植科病区,http://api.map.baidu.com/place/detail?uid=02f8c786f1c0e2a7077ce813&output=html&source=jsapi,西安市碑林区陕西人民医院南7楼3层,null,null
+5cd525072b653229002b60ba,dd76e36ca8755a7dcf06a404,西安市第一医院-老年病科,http://api.map.baidu.com/place/detail?uid=dd76e36ca8755a7dcf06a404&output=html&source=jsapi,南大街粉巷30号,null,"医疗,下属科室机构"
+5cd525072b653229002b60bb,c9dfcfa2612356916f3e1b7f,陕西省人民医院-心外二病区,http://api.map.baidu.com/place/detail?uid=c9dfcfa2612356916f3e1b7f&output=html&source=jsapi,友谊西路256号附近,null,"医疗,下属科室机构"
+5cd525072b653229002b60bc,0ed4f34a1603609258f6beef,陕西省人民医院-东三楼,http://api.map.baidu.com/place/detail?uid=0ed4f34a1603609258f6beef&output=html&source=jsapi,含光路中段84号附近,null,"医疗,下属科室机构"
+5cd525072b653229002b60bd,827eb7b789023a8a70210b0e,第九医院-多功能厅,http://api.map.baidu.com/place/detail?uid=827eb7b789023a8a70210b0e&output=html&source=jsapi,南二环东段151号,null,"医疗,综合医院,三级医院"
+5cd525072b653229002b60be,98bd09fb24ae910b3a13fda7,西安理工大学医院,http://api.map.baidu.com/place/detail?uid=98bd09fb24ae910b3a13fda7&output=html&source=jsapi,西安市碑林区金花南路5号,null,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b60bf,15d2215e8f17f388cac3db27,惠华医院,http://api.map.baidu.com/place/detail?uid=15d2215e8f17f388cac3db27&output=html&source=jsapi,二环南路西段182附近,(029)88498811,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525072b653229002b60c0,e6b27cae7ab928ecbea2401f,西安市第五医院-后勤楼,http://api.map.baidu.com/place/detail?uid=e6b27cae7ab928ecbea2401f&output=html&source=jsapi,陕西省西安市莲湖区西关正街112号,null,"医疗,下属科室机构"
+5cd525072b653229002b60c1,f14cac037434ae37220220f9,长安医院急诊胸痛中心,http://api.map.baidu.com/place/detail?uid=f14cac037434ae37220220f9&output=html&source=jsapi,陕西省西安市未央区文景路17号,null,null
+5cd525072b653229002b60c2,2848ffd668ac041648cc4a08,西安莲湖华西医院,http://api.map.baidu.com/place/detail?uid=2848ffd668ac041648cc4a08&output=html&source=jsapi,西安市莲湖区莲湖路204号,"(029)89399889,(029)87335308,(029)82115977",医疗
+5cd525072b653229002b60c3,8ab0dfc4fac44d0fd8eced4a,西安市妇幼保健院,http://api.map.baidu.com/place/detail?uid=8ab0dfc4fac44d0fd8eced4a&output=html&source=jsapi,西安市莲湖区西大街73号,null,生活服务
+5cd525072b653229002b60c4,6f5fe278fc98975a3904b141,西安市儿童医院-器械科,http://api.map.baidu.com/place/detail?uid=6f5fe278fc98975a3904b141&output=html&source=jsapi,陕西省西安市莲湖区西举院巷69号,null,"医疗,下属科室机构"
+5cd525072b653229002b60c5,2c0bd6c54ee0deb343ab9a4b,西安市华山中心医院,http://api.map.baidu.com/place/detail?uid=2c0bd6c54ee0deb343ab9a4b&output=html&source=jsapi,西安市新城区东郊韩森寨十七街坊8号,"(029)83202520,(029)83202653",null
+5cd525072b653229002b60c6,d6df91c13d456773f7b91626,西安雁塔天佑儿童医院,http://api.map.baidu.com/place/detail?uid=d6df91c13d456773f7b91626&output=html&source=jsapi,西安市雁塔区科技路9号,null,null
+5cd525072b653229002b60c7,c82bf5f0b5d9f97f78f7960f,西安市红会医院-4号楼,http://api.map.baidu.com/place/detail?uid=c82bf5f0b5d9f97f78f7960f&output=html&source=jsapi,陕西省西安市碑林区西安市红十字会医院,null,null
+5cd525082b653229002b60c9,c91547d57b77ba1bd12dd68b,西安医学院第一附属医院-7号楼,http://api.map.baidu.com/place/detail?uid=c91547d57b77ba1bd12dd68b&output=html&source=jsapi,陕西省西安市莲湖区西安医学院第一附属医院,null,"医疗,下属科室机构"
+5cd525082b653229002b60ca,8ddecd33c2690202f82d6148,西安医学院第一附属医院-视光部,http://api.map.baidu.com/place/detail?uid=8ddecd33c2690202f82d6148&output=html&source=jsapi,丰镐西路48号,null,null
+5cd525082b653229002b60cb,56ffac7da9a17dcc471a3245,西安未央正泰医院-治疗室,http://api.map.baidu.com/place/detail?uid=56ffac7da9a17dcc471a3245&output=html&source=jsapi,纬二十六街59号西安未央正泰医院1层,null,"医疗,下属科室机构"
+5cd525082b653229002b60cc,0d152957b9554c709122e073,西安市中心医院设备科,http://api.map.baidu.com/place/detail?uid=0d152957b9554c709122e073&output=html&source=jsapi,陕西省西安市新城区西一路街道后宰门185号西安市中心医院,null,null
+5cd525082b653229002b60cd,6714f690a91c89ab22022086,西安市红会医院器械科,http://api.map.baidu.com/place/detail?uid=6714f690a91c89ab22022086&output=html&source=jsapi,西安市碑林区长安路街道南稍门南廓路76号,null,null
+5cd525082b653229002b60ce,53b7f1d9543daa416d20b9eb,西安急救中心城区中心站,http://api.map.baidu.com/place/detail?uid=53b7f1d9543daa416d20b9eb&output=html&source=jsapi,友谊东路与永宁路交叉口东北50米,null,null
+5cd525082b653229002b60cf,c7efc35f592524552fb9081c,中国兵器工业五二一医院-输液室,http://api.map.baidu.com/place/detail?uid=c7efc35f592524552fb9081c&output=html&source=jsapi,陕西省西安市雁塔区丈八东路12号,null,"医疗,下属科室机构"
+5cd525082b653229002b60d0,ea1c3a05a11454d4990050b8,120西郊集急救分站,http://api.map.baidu.com/place/detail?uid=ea1c3a05a11454d4990050b8&output=html&source=jsapi,陕西省西安市莲湖区丰登路97号,null,null
+5cd525082b653229002b60d1,219933384268146e8bb9887e,中医顺势疗法,http://api.map.baidu.com/place/detail?uid=219933384268146e8bb9887e&output=html&source=jsapi,陕西省西安市雁塔区崇业路90号附近,18792771968,null
+5cd525082b653229002b60d2,7a847097cf71cc0ef82213a0,西安市医学影像中心,http://api.map.baidu.com/place/detail?uid=7a847097cf71cc0ef82213a0&output=html&source=jsapi,西一路街道西五路161号,null,null
+5cd525082b653229002b60d3,326cde879843b142a3acc49f,陕西省肿瘤医院,http://api.map.baidu.com/place/detail?uid=326cde879843b142a3acc49f&output=html&source=jsapi,西安市雁塔区雁塔西路309号,(029)85276049,null
+5cd525082b653229002b60d4,2cc3c8e8ac795fcf4c2fdfb2,陕西省友谊医院,http://api.map.baidu.com/place/detail?uid=2cc3c8e8ac795fcf4c2fdfb2&output=html&source=jsapi,陕西省西安市友谊西路277号,(029)85360950,null
+5cd525082b653229002b60d5,a5e458d5401243cde9f85337,西安医学院第一附属医院,http://api.map.baidu.com/place/detail?uid=a5e458d5401243cde9f85337&output=html&source=jsapi,西安市莲湖区沣镐西路48号,(029)84277356,null
+5cd525082b653229002b60d6,a791853bb3987ffe213bf26c,西安市第三医院-门诊楼,http://api.map.baidu.com/place/detail?uid=a791853bb3987ffe213bf26c&output=html&source=jsapi,陕西省西安市未央区大明宫街道贞观路西安市第三人民医院,null,null
+5cd525082b653229002b60d7,3b2a4fc3242bfd65d92f28e0,西安冶金医院,http://api.map.baidu.com/place/detail?uid=3b2a4fc3242bfd65d92f28e0&output=html&source=jsapi,西安市莲湖区枣园西路40号,(029)84619424,null
+5cd525082b653229002b60d8,28e700f158604a18095cb31d,桃园社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=28e700f158604a18095cb31d&output=html&source=jsapi,西安市莲湖区丰登路300号,"(029)84223546,(029)84241712","医疗,社区医疗/诊所/卫生所"
+5cd525082b653229002b60d9,6dd562a136674bce373a71c7,西安交通大学第二附属医院(大明宫院区),http://api.map.baidu.com/place/detail?uid=6dd562a136674bce373a71c7&output=html&source=jsapi,西安市未央区大明宫·圣远广场(建强路西),null,null
+5cd525082b653229002b60da,080bc1190d8063b592114c5c,西安浐灞强森医院,http://api.map.baidu.com/place/detail?uid=080bc1190d8063b592114c5c&output=html&source=jsapi,陕西省西安市未央区金茂一路与金桥六路交叉口,(029)83511984,null
+5cd525082b653229002b60db,3be122e1185c92521ef74d45,西安市灞桥区十里铺骨科医院,http://api.map.baidu.com/place/detail?uid=3be122e1185c92521ef74d45&output=html&source=jsapi,西安市灞桥区十里铺村华清东路与十里铺南路交口东南方向,(029)82526160,"医疗,专科<font color=""#c60a00"">医院</font>"
+5cd525082b653229002b60dc,58a180d9e1f5ecb7c8213d9a,西安爱尔眼科医院,http://api.map.baidu.com/place/detail?uid=58a180d9e1f5ecb7c8213d9a&output=html&source=jsapi,西安市雁塔区丈八东路6号,null,null
+5cd525082b653229002b60dd,80c3746a0359df47c9e33c89,西安和平中医医院,http://api.map.baidu.com/place/detail?uid=80c3746a0359df47c9e33c89&output=html&source=jsapi,西安市碑林区环城南路东段128号,null,null
+5cd525082b653229002b60de,7606dd923281b99dca2915cb,西安未央泰和医院,http://api.map.baidu.com/place/detail?uid=7606dd923281b99dca2915cb&output=html&source=jsapi,西安市未央区辛家庙泰和居南门旁,(029)86102720,null
+5cd525082b653229002b60df,3500d93ba51b1aa7f6c59c40,西安雁塔天佑妇产医院,http://api.map.baidu.com/place/detail?uid=3500d93ba51b1aa7f6c59c40&output=html&source=jsapi,西安市雁塔区兴善寺东街77号,null,null
+5cd525082b653229002b60e0,45edbea8b2ce7860e4e965aa,第四军医大学口腔医院,http://api.map.baidu.com/place/detail?uid=45edbea8b2ce7860e4e965aa&output=html&source=jsapi,西安市新城区长乐西路145号,(029)84776225,null
+5cd525082b653229002b60e1,2dd088bf7aab13b175e5b61f,西安光仁医院,http://api.map.baidu.com/place/detail?uid=2dd088bf7aab13b175e5b61f&output=html&source=jsapi,西安市新城区南新街28号,null,null
+5cd525082b653229002b60e2,288cc6e5f9804a558f1a898c,西安三秦医院,http://api.map.baidu.com/place/detail?uid=288cc6e5f9804a558f1a898c&output=html&source=jsapi,西安市新城区西五路1号,(029)87416688,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525082b653229002b60e3,6b69fba523b4e0bf2efaa7ac,西安交通大学口腔医院,http://api.map.baidu.com/place/detail?uid=6b69fba523b4e0bf2efaa7ac&output=html&source=jsapi,西安市新城区西五路98号,(029)87275706,"医疗,综合<font color=""#c60a00"">医院</font>,三级<font color=""#c60a00"">医院</font>"
+5cd525082b653229002b60e4,f633606ae1c810570a69d9e0,协同医院,http://api.map.baidu.com/place/detail?uid=f633606ae1c810570a69d9e0&output=html&source=jsapi,西安市碑林区友谊西路166号,null,null
+5cd525082b653229002b60e5,53349ee346234c772202621c,西安爱尔古城眼科医院,http://api.map.baidu.com/place/detail?uid=53349ee346234c772202621c&output=html&source=jsapi,西安市莲湖区自强西路59号,"(029)86283800,(029)86288155,(029)86286699","医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525082b653229002b60e6,58949a2d86c5dc07f7e73bd3,西安汉城妇产医院,http://api.map.baidu.com/place/detail?uid=58949a2d86c5dc07f7e73bd3&output=html&source=jsapi,陕西省西安市未央区凤城七路,null,null
+5cd525082b653229002b60e7,9ee392b8d897e058babd63b6,西安国医肿瘤医院,http://api.map.baidu.com/place/detail?uid=9ee392b8d897e058babd63b6&output=html&source=jsapi,西安市雁塔区雁南一路13号,null,医疗
+5cd525082b653229002b60e8,cec093a305cfc97d2dfaa721,空军军医大学第四军医大学西京医院-骨科床位号9-10,http://api.map.baidu.com/place/detail?uid=cec093a305cfc97d2dfaa721&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院骨科F4,null,null
+5cd525082b653229002b60e9,155cb88f5701a997c9fa5fb8,空军军医大学第四军医大学西京医院-肝胆胰脾外科一病区16-18,http://api.map.baidu.com/place/detail?uid=155cb88f5701a997c9fa5fb8&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院住院一部F6,null,null
+5cd525082b653229002b60ea,f9e9aa6c4c49383529fc480c,空军军医大学第四军医大学西京医院-床位号23-28,http://api.map.baidu.com/place/detail?uid=f9e9aa6c4c49383529fc480c&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院心血管内外科F5,null,null
+5cd525082b653229002b60eb,30649f7b058c22d4ca29158c,空军军医大学第四军医大学西京医院-神经外科床位号29-35,http://api.map.baidu.com/place/detail?uid=30649f7b058c22d4ca29158c&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院神经内外科F6,null,null
+5cd525082b653229002b60ec,2645018d7432fe7c7369d3c0,空军军医大学第四军医大学西京医院-神经内科床位号16-18,http://api.map.baidu.com/place/detail?uid=2645018d7432fe7c7369d3c0&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院神经内外科F2,null,null
+5cd525082b653229002b60ed,988b7a864277b9532fb9088d,空军军医大学第四军医大学西京医院-泌尿外科床位号44-45,http://api.map.baidu.com/place/detail?uid=988b7a864277b9532fb9088d&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院住院一部F5,null,null
+5cd525082b653229002b60ee,52ffe3c3a8e35ebef219374c,空军军医大学第四军医大学西京医院-肝胆胰脾外科二病区32-33,http://api.map.baidu.com/place/detail?uid=52ffe3c3a8e35ebef219374c&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院住院一部F6,null,null
+5cd525082b653229002b60ef,0e79ff844034c8ab1ef74d2a,空军军医大学第四军医大学西京医院-肝胆胰脾外科二病区25-27,http://api.map.baidu.com/place/detail?uid=0e79ff844034c8ab1ef74d2a&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院住院一部F6,null,null
+5cd525082b653229002b60f0,775c8a943de4af1e4251c077,空军军医大学第四军医大学西京医院-神经外科床位号43-48,http://api.map.baidu.com/place/detail?uid=775c8a943de4af1e4251c077&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院神经内外科F6,null,null
+5cd525082b653229002b60f1,19bb2c9bdc702b12b75f1e12,空军军医大学第四军医大学西京医院-神经外科床位号17-18,http://api.map.baidu.com/place/detail?uid=19bb2c9bdc702b12b75f1e12&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院神经内外科F5,null,null
+5cd525082b653229002b60f2,7e1a93012a2ce5a4471a32c0,空军军医大学第四军医大学西京医院-床位号21-24,http://api.map.baidu.com/place/detail?uid=7e1a93012a2ce5a4471a32c0&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院心血管内外科F6,null,null
+5cd525082b653229002b60f3,4eec0a13c2c5f7810e0e6b83,空军军医大学第四军医大学西京医院-甲乳血管外科床位号17-20,http://api.map.baidu.com/place/detail?uid=4eec0a13c2c5f7810e0e6b83&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院住院一部F7,null,null
+5cd525082b653229002b60f4,80da05aac31d29a2631c6742,空军军医大学第四军医大学西京医院-神经内科床位号27-28,http://api.map.baidu.com/place/detail?uid=80da05aac31d29a2631c6742&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院神经内外科F2,null,null
+5cd525082b653229002b60f5,6a096bf9dd27e5cd4d2fdfca,空军军医大学第四军医大学西京医院-床位号56-58,http://api.map.baidu.com/place/detail?uid=6a096bf9dd27e5cd4d2fdfca&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院心血管内外科F6,null,null
+5cd525082b653229002b60f6,6b97da13691ec3086e3e1bfb,空军军医大学第四军医大学西京医院-床位号13-15,http://api.map.baidu.com/place/detail?uid=6b97da13691ec3086e3e1bfb&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院心血管内外科F5,null,null
+5cd525082b653229002b60f7,0d7db4a4f74f07dcc61b751e,空军军医大学第四军医大学西京医院-肝胆胰脾外科一病区30-31,http://api.map.baidu.com/place/detail?uid=0d7db4a4f74f07dcc61b751e&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院住院一部F6,null,null
+5cd525082b653229002b60f8,f27e2a60593099c0eaf85345,皮肤科-床位号24-25,http://api.map.baidu.com/place/detail?uid=f27e2a60593099c0eaf85345&output=html&source=jsapi,西安市新城区长乐西路127号第四军医大学西京医院皮肤科F5,null,null
+5cd525082b653229002b60f9,ef8885201e0b937593114ccb,秦龙源陕西总代理(陕西第0401店),http://api.map.baidu.com/place/detail?uid=ef8885201e0b937593114ccb&output=html&source=jsapi,桃园路街道大庆路西电集团财务公司向西100米,null,null
+5cd525642b653229002b60fc,bcf5a1b6659d0de8715e80e8,中国人民武装警察部队工程大学医院,http://api.map.baidu.com/place/detail?uid=bcf5a1b6659d0de8715e80e8&output=html&source=jsapi,西安市未央区三桥镇武警路4号,null,null
+5cd525642b653229002b6102,9de70df265998dd14f3a5939,西安医学院第一附属医院沣东医院,http://api.map.baidu.com/place/detail?uid=9de70df265998dd14f3a5939&output=html&source=jsapi,西安市未央区阿房二路1号,(029)84528866,null
+5cd525642b653229002b6105,d461b33fb2ae1c1cb020a8f9,长安大学-校医院,http://api.map.baidu.com/place/detail?uid=d461b33fb2ae1c1cb020a8f9&output=html&source=jsapi,陕西省西安市未央区长大南路356号长安大学渭水校区,null,null
+5cd525642b653229002b6106,0a15c7ec187b55fced74f850,西安北车医院,http://api.map.baidu.com/place/detail?uid=0a15c7ec187b55fced74f850&output=html&source=jsapi,陕西省西安市三桥镇建章路南段54号,(029)82369940,null
+5cd525642b653229002b6107,750ec1652c49602b4c3a5954,光大医院,http://api.map.baidu.com/place/detail?uid=750ec1652c49602b4c3a5954&output=html&source=jsapi,西辛庄唐兴路19号,(029)88230398,"医疗,综合医院"
+5cd525642b653229002b6108,f4a33da9ed5e37093010af37,西安未央经开医院,http://api.map.baidu.com/place/detail?uid=f4a33da9ed5e37093010af37&output=html&source=jsapi,西安市北郊草滩七路,null,"医疗,综合医院"
+5cd525642b653229002b6113,1351341e108515b8bea240fb,陕西第二人民医院(高新分院),http://api.map.baidu.com/place/detail?uid=1351341e108515b8bea240fb&output=html&source=jsapi,西安市雁塔区,null,null
+5cd525642b653229002b6114,c879fa0158679e4ac909f050,西安长安泰和医院,http://api.map.baidu.com/place/detail?uid=c879fa0158679e4ac909f050&output=html&source=jsapi,西安市长安区王寺街道西街141号,(029)85808366,"医疗,综合医院"
+5cd525642b653229002b6115,99430eb458ca267fc17da2d7,西安北方中医皮肤病医院,http://api.map.baidu.com/place/detail?uid=99430eb458ca267fc17da2d7&output=html&source=jsapi,西安市莲湖区青年路147号,"(029)88771188,(029)88771199",null
+5cd525642b653229002b6116,5508504d7518a0d2c6f025ed,西安雁塔九龙医院,http://api.map.baidu.com/place/detail?uid=5508504d7518a0d2c6f025ed&output=html&source=jsapi,陕西省西安市雁塔区高新四路城市皇冠1楼,18392683582,医疗
+5cd525642b653229002b6117,4bca039c245b4bfff2193715,陕西省妇幼保健院西北妇女儿童医院雁塔区妇幼医疗联合体,http://api.map.baidu.com/place/detail?uid=4bca039c245b4bfff2193715&output=html&source=jsapi,丈八北路16号附近,null,null
+5cd525642b653229002b6118,8b70cca7b3197e9ce21103e2,西安莲湖生殖医院,http://api.map.baidu.com/place/detail?uid=8b70cca7b3197e9ce21103e2&output=html&source=jsapi,陕西省西安市莲湖区西关正街379号,null,null
+5cd525642b653229002b6119,a86009b1e0f6ea0707026fde,西安市儿童医院,http://api.map.baidu.com/place/detail?uid=a86009b1e0f6ea0707026fde&output=html&source=jsapi,西安市莲湖区西举院巷69号,(029)87311818,null
+5cd525642b653229002b611b,f6b771b7f828deced22dd6c2,三桥社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=f6b771b7f828deced22dd6c2&output=html&source=jsapi,西安市未央区三桥街道天章大道,(029)84521609,null
+5cd525642b653229002b6127,3d0379b1465860cf04fef55d,西安美好美容医院,http://api.map.baidu.com/place/detail?uid=3d0379b1465860cf04fef55d&output=html&source=jsapi,西安市雁塔区高新一路21号,(029)88756666,null
+5cd525642b653229002b612b,8612278aba1fd007fa42b202,陕西远大男病专科医院,http://api.map.baidu.com/place/detail?uid=8612278aba1fd007fa42b202&output=html&source=jsapi,西安市碑林区友谊西路322号,"(029)88472224,(029)89589999",null
+5cd525652b653229002b612e,75d0881a988f3f543a04b150,民航西安医院,http://api.map.baidu.com/place/detail?uid=75d0881a988f3f543a04b150&output=html&source=jsapi,西安市莲湖区沣镐路2号,(029)88795000,null
+5cd525652b653229002b612f,3bac3e608d6adb9ac91b9592,陕西省人民医院-住院大楼,http://api.map.baidu.com/place/detail?uid=3bac3e608d6adb9ac91b9592&output=html&source=jsapi,陕西省西安市碑林区黄雁村友谊西路256号陕西省人民医院内,null,null
+5cd525652b653229002b6130,acac521d5ae5becd3be4a6db,镐京骨科,http://api.map.baidu.com/place/detail?uid=acac521d5ae5becd3be4a6db&output=html&source=jsapi,陕西省西安市长安区富裕路西安市汤特塑胶制品有限公司,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6131,d805c92106cdeb1721f017b9,小白兔(高新路分院),http://api.map.baidu.com/place/detail?uid=d805c92106cdeb1721f017b9&output=html&source=jsapi,西安市高新区环亚花园5号商业楼3幢1-2层,(029)81884180,null
+5cd525652b653229002b6132,881a28e73e6b773af942b206,陕西省人民医院-门诊部,http://api.map.baidu.com/place/detail?uid=881a28e73e6b773af942b206&output=html&source=jsapi,含光北路88号陕西省人民医院,null,"医疗,下属科室机构"
+5cd525652b653229002b6133,22ec245f28aeb7387bf796e8,西安未央汉城医院,http://api.map.baidu.com/place/detail?uid=22ec245f28aeb7387bf796e8&output=html&source=jsapi,陕西省西安市未央区小刘寨丰景路中段,(029)86111100,null
+5cd525652b653229002b6137,e6ee2fd26ac760492b11d177,西安雁塔友好医院,http://api.map.baidu.com/place/detail?uid=e6ee2fd26ac760492b11d177&output=html&source=jsapi,陕西省西安市雁塔区吉祥路21号,(029)88243120,"医疗,综合医院"
+5cd525652b653229002b6138,c6179507f42dc9a18f7727fc,西安儿童医院高新门诊部,http://api.map.baidu.com/place/detail?uid=c6179507f42dc9a18f7727fc&output=html&source=jsapi,陕西省西安市雁塔区唐兴路19号都市春天,null,null
+5cd525652b653229002b6139,17c1f2385ce9f8bbb320a8b9,西安莲湖古都医院,http://api.map.baidu.com/place/detail?uid=17c1f2385ce9f8bbb320a8b9&output=html&source=jsapi,西安市莲湖区星火路14号,null,"医疗,综合医院"
+5cd525652b653229002b613b,f55f02e2923f14b86b49f394,西安雁塔妙一门诊部,http://api.map.baidu.com/place/detail?uid=f55f02e2923f14b86b49f394&output=html&source=jsapi,陕西省西安市雁塔区丈八北路与科技三路交叉口东南100米,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b613c,3ea884ea03a12e468c55ec53,六村堡社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=3ea884ea03a12e468c55ec53&output=html&source=jsapi,西安市未央区建章路长庆十字东六村,(029)68573056,null
+5cd525652b653229002b613d,d4b16a9811f1b81bfa0cad29,西安圣贝牙科医院,http://api.map.baidu.com/place/detail?uid=d4b16a9811f1b81bfa0cad29&output=html&source=jsapi,西安市莲湖区丰登南路2号(丰庆公园西门对面)公园一层,(029)81327105,医疗
+5cd525652b653229002b613e,9e05dbdd6d0fe8d14f6d469d,莲湖区红十字会医院,http://api.map.baidu.com/place/detail?uid=9e05dbdd6d0fe8d14f6d469d&output=html&source=jsapi,西安市莲湖区红光街29号,null,null
+5cd525652b653229002b613f,81d6a5093c5db83d6e20b935,西安市第五医院-门诊部,http://api.map.baidu.com/place/detail?uid=81d6a5093c5db83d6e20b935&output=html&source=jsapi,西关正街112号,null,"医疗,下属科室机构"
+5cd525652b653229002b6140,f696f3c2d4b047961b11d513,和平社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=f696f3c2d4b047961b11d513&output=html&source=jsapi,西安市未央区三桥街道和平工业园一号路23号,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6141,d991e1169acf7d281f389401,西安市儿童医院-门诊,http://api.map.baidu.com/place/detail?uid=d991e1169acf7d281f389401&output=html&source=jsapi,西安市西门内西举院巷69号,(029)87311818,"医疗,下属科室机构"
+5cd525652b653229002b6142,cacb4d165bed6de296ca07f1,陕西省工作者协会老医药卫生中医门诊部,http://api.map.baidu.com/place/detail?uid=cacb4d165bed6de296ca07f1&output=html&source=jsapi,陕西省西安市莲湖区贡院门35号,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6143,d6ee8724b674c2f9a8f0cdda,西安雁塔俪人医院,http://api.map.baidu.com/place/detail?uid=d6ee8724b674c2f9a8f0cdda&output=html&source=jsapi,陕西省西安市高新区科技路合力紫郡B座,"(029)88635555,(029)88850182",医疗
+5cd525652b653229002b6144,72aa25131677755e077ce83e,陕西省交通医院,http://api.map.baidu.com/place/detail?uid=72aa25131677755e077ce83e&output=html&source=jsapi,西安市碑林区大学南路276号,(029)88490077,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525652b653229002b6145,96c6417d8ff9c82216a19012,陕西省友谊医院-门诊楼,http://api.map.baidu.com/place/detail?uid=96c6417d8ff9c82216a19012&output=html&source=jsapi,陕西省西安市碑林区友谊西路281,null,"医疗,下属科室机构"
+5cd525652b653229002b6146,7a8ef561c8c83b834354d702,西安莲湖天赐门诊部,http://api.map.baidu.com/place/detail?uid=7a8ef561c8c83b834354d702&output=html&source=jsapi,龙首北路西段138号,(029)89573929,null
+5cd525652b653229002b6147,4edf9fbf5469ffeacc06a400,西安未央王明哲中医诊所,http://api.map.baidu.com/place/detail?uid=4edf9fbf5469ffeacc06a400&output=html&source=jsapi,陕西省西安市未央区二环北路西段18号,13519152933,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6148,761203eb1b9e801649fd3f2c,西安未央瑞康医院,http://api.map.baidu.com/place/detail?uid=761203eb1b9e801649fd3f2c&output=html&source=jsapi,西安市未央区阿房二路西口,null,null
+5cd525652b653229002b6149,98eadbd2f4b1ca6243afe624,西安胃康中医医院,http://api.map.baidu.com/place/detail?uid=98eadbd2f4b1ca6243afe624&output=html&source=jsapi,陕西省西安市莲湖区西北三路128号,"(029)87333628,(029)89620995",null
+5cd525652b653229002b614a,96b672aa3afefe08ce04eff3,未央区汉城社区卫生中心,http://api.map.baidu.com/place/detail?uid=96b672aa3afefe08ce04eff3&output=html&source=jsapi,陕西省西安市未央区凤城七路汉城商业街里,(029)86609178,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b614c,764672e5ce5330ae94ec841e,鱼化寨社区卫生中心,http://api.map.baidu.com/place/detail?uid=764672e5ce5330ae94ec841e&output=html&source=jsapi,陕西省西安市雁塔区鱼斗路78号,(029)88752992,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b614d,a36a0c9862ce5399bea240c7,好韵门诊,http://api.map.baidu.com/place/detail?uid=a36a0c9862ce5399bea240c7&output=html&source=jsapi,陕西省西安市莲湖区二环路沿线商业经济带星火路28号附近,null,null
+5cd525652b653229002b614e,82092fb62b288bacb4265587,莲湖区环城西路社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=82092fb62b288bacb4265587&output=html&source=jsapi,陕西省西安市莲湖区大庆路2号,(029)88622388,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b614f,8fa0daa5270a098c48cc4af8,西安大兴新区社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=8fa0daa5270a098c48cc4af8&output=html&source=jsapi,陕西省西安市莲湖区红庙坡街道自强西路233号,(029)89576218,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6150,0b1f3f8fdea9b1e9ca213d4c,陕西省皮肤病医院,http://api.map.baidu.com/place/detail?uid=0b1f3f8fdea9b1e9ca213d4c&output=html&source=jsapi,陕西省西安市莲湖区莲湖路391号,null,null
+5cd525652b653229002b6151,7524cb4fa8cd034904026f10,北皂河村卫生室,http://api.map.baidu.com/place/detail?uid=7524cb4fa8cd034904026f10&output=html&source=jsapi,北河32号附近,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6152,e11857e1336740ecfca778f5,张家巷村卫生室,http://api.map.baidu.com/place/detail?uid=e11857e1336740ecfca778f5&output=html&source=jsapi,罗高路西50米,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6153,dbcc625d4ce8c8182b11d1bc,西安市莲湖区土门社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=dbcc625d4ce8c8182b11d1bc&output=html&source=jsapi,西安市莲湖区大桥西街摩尔公馆军工三院后门,(029)84352720,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6154,3e454082d237eae1a8f729cd,西安莲湖保济医院,http://api.map.baidu.com/place/detail?uid=3e454082d237eae1a8f729cd&output=html&source=jsapi,西安市莲湖区丰庆路86号,null,null
+5cd525652b653229002b6155,9c10427ee581b7c843ab9a98,八七口腔,http://api.map.baidu.com/place/detail?uid=9c10427ee581b7c843ab9a98&output=html&source=jsapi,陕西省西安市莲湖区团结中路1号,(029)84246926,null
+5cd525652b653229002b6156,569a22f90f065858a21de9cf,东风村卫生室,http://api.map.baidu.com/place/detail?uid=569a22f90f065858a21de9cf&output=html&source=jsapi,陕西省西安市未央区博雅幼儿园东北90米(石化大道北),null,null
+5cd525652b653229002b6157,eece4814196c48e384154162,雅至口腔,http://api.map.baidu.com/place/detail?uid=eece4814196c48e384154162&output=html&source=jsapi,陕西省西安市雁塔区科技路209号1幢20209室,(029)85512277,null
+5cd525652b653229002b6158,94b133c35806b365bb17e7bb,西安交通大学第二附属医院(西北医院)技术指导医院,http://api.map.baidu.com/place/detail?uid=94b133c35806b365bb17e7bb&output=html&source=jsapi,陕西省西安市莲湖区龙首北路皇族名居陕西中医肝肾病医院,null,null
+5cd525652b653229002b6159,e3a7fd1357c1564b29b97c84,西安电子科技大学医院,http://api.map.baidu.com/place/detail?uid=e3a7fd1357c1564b29b97c84&output=html&source=jsapi,西安市雁塔区太白南路2号,"(029)88202779,(029)88202728","医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525652b653229002b615a,41dbfd5921da93459de3218d,陕西西安中际中西医结合脑病医院,http://api.map.baidu.com/place/detail?uid=41dbfd5921da93459de3218d&output=html&source=jsapi,陕西省西安市莲湖区汉城南路旭景新港8号,(029)62698934,null
+5cd525652b653229002b615b,5ce2637d8f993f2fae31e508,西安高新医院-体检,http://api.map.baidu.com/place/detail?uid=5ce2637d8f993f2fae31e508&output=html&source=jsapi,西安市雁塔区团结南路16号,(029)88330230,"医疗,下属科室机构"
+5cd525652b653229002b615c,37d60a468c43f5601e1d1154,西北工业大学医院,http://api.map.baidu.com/place/detail?uid=37d60a468c43f5601e1d1154&output=html&source=jsapi,西安市碑林区友谊西路127号,"(029)88493836,(029)88493920",医疗
+5cd525652b653229002b615d,31f6ca0e7315d77fb05c6a36,大秦医院,http://api.map.baidu.com/place/detail?uid=31f6ca0e7315d77fb05c6a36&output=html&source=jsapi,沣东新城天台路南段b26,null,null
+5cd525652b653229002b615e,2f336dc6f5c38c8f79b55cf1,电子城二十所社区卫生服务站,http://api.map.baidu.com/place/detail?uid=2f336dc6f5c38c8f79b55cf1&output=html&source=jsapi,陕西省西安市雁塔区光华路268号,(029)88786760,null
+5cd525652b653229002b6160,5ac6e7155c0214d972455b62,西安海红医院,http://api.map.baidu.com/place/detail?uid=5ac6e7155c0214d972455b62&output=html&source=jsapi,西安市未央区凤城二路32号,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6162,d9ff9b318dda2f69d2f49e89,西安市儿童医院住院二部,http://api.map.baidu.com/place/detail?uid=d9ff9b318dda2f69d2f49e89&output=html&source=jsapi,莲湖区西安市儿童医院住院二部,18302911204,null
+5cd525652b653229002b6163,8f53bfcd99cb0690ebe58215,西安莲湖广济医院,http://api.map.baidu.com/place/detail?uid=8f53bfcd99cb0690ebe58215&output=html&source=jsapi,西安市莲湖区西大街283号,null,null
+5cd525652b653229002b6164,18c10426409bf5b5b320a898,西安医学院第一附属医院-住院楼,http://api.map.baidu.com/place/detail?uid=18c10426409bf5b5b320a898&output=html&source=jsapi,陕西省西安市莲湖区丰镐西路48号,null,"医疗,下属科室机构"
+5cd525652b653229002b6168,40d4c132852d84553617dc30,西安大兴新区社区卫生服务中心妇育保健科,http://api.map.baidu.com/place/detail?uid=40d4c132852d84553617dc30&output=html&source=jsapi,星火路37号附近,null,null
+5cd525652b653229002b616a,8fde79cca97a8abf95ca0754,西安碑林华珍医院,http://api.map.baidu.com/place/detail?uid=8fde79cca97a8abf95ca0754&output=html&source=jsapi,西安市碑林区友谊西路306号,null,"医疗,综合医院"
+5cd525652b653229002b616c,8e5262b4ff48663488fc0641,柞水正骨,http://api.map.baidu.com/place/detail?uid=8e5262b4ff48663488fc0641&output=html&source=jsapi,西安市莲湖区,null,null
+5cd525652b653229002b616d,a12baa40a7dee356e856fa4f,西安利君医院,http://api.map.baidu.com/place/detail?uid=a12baa40a7dee356e856fa4f&output=html&source=jsapi,西安市莲湖区丰镐西路151号,null,"医疗,综合<font color=""#c60a00"">医院</font>"
+5cd525652b653229002b616e,6aad0c44fc3f23b485420eb5,莲湖区桃园社区卫生服务中心西电集团医院医疗联合体,http://api.map.baidu.com/place/detail?uid=6aad0c44fc3f23b485420eb5&output=html&source=jsapi,丰登北路110号附近,null,null
+5cd525652b653229002b616f,19e06c48239a0f5f6cc02cd7,中国电子科技集团第二十研究所职工医院,http://api.map.baidu.com/place/detail?uid=19e06c48239a0f5f6cc02cd7&output=html&source=jsapi,西安市光华路20,null,"医疗,综合医院"
+5cd525652b653229002b6170,48eb0058436041ae2fe67b7a,西安长安儿童康复医院,http://api.map.baidu.com/place/detail?uid=48eb0058436041ae2fe67b7a&output=html&source=jsapi,西安市长安区王寺北街20号,null,"医疗,专科医院"
+5cd525652b653229002b6171,f5434545a638b07edc1e52fc,陕西尔仓口腔医院,http://api.map.baidu.com/place/detail?uid=f5434545a638b07edc1e52fc&output=html&source=jsapi,西安市莲湖区习武园1号,null,null
+5cd525652b653229002b6173,40c3aa886c6bf05a5cbe86c2,陕西省人民医院-南七楼,http://api.map.baidu.com/place/detail?uid=40c3aa886c6bf05a5cbe86c2&output=html&source=jsapi,陕西省西安市碑林区友谊西路256,null,"医疗,下属科室机构"
+5cd525652b653229002b6174,79cceb36e5a7d8f41e58003b,环城西路西站社区卫生服务站,http://api.map.baidu.com/place/detail?uid=79cceb36e5a7d8f41e58003b&output=html&source=jsapi,建中巷32号,null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6175,8e50b6f347fb0990ca29154a,正骨腰间盘突出颈椎病,http://api.map.baidu.com/place/detail?uid=8e50b6f347fb0990ca29154a&output=html&source=jsapi,西安市未央区,null,null
+5cd525652b653229002b6176,b7021bf810b9de84f4e73b03,陕西省交通医院-住院楼,http://api.map.baidu.com/place/detail?uid=b7021bf810b9de84f4e73b03&output=html&source=jsapi,大学南路276号,(029)88490077,"医疗,下属科室机构"
+5cd525652b653229002b6177,94e680f232c9ff3d336212cf,西钢医院,http://api.map.baidu.com/place/detail?uid=94e680f232c9ff3d336212cf&output=html&source=jsapi,西安市莲湖区,null,null
+5cd525652b653229002b6178,c8b5cdef78452f7e130daa06,三桥新西北阿房四路社区卫生服务站,http://api.map.baidu.com/place/detail?uid=c8b5cdef78452f7e130daa06&output=html&source=jsapi,陕西省西安市未央区阿房路三校(阿房二路北),null,"医疗,社区医疗/诊所/卫生所"
+5cd525652b653229002b6179,755550f21f1faf6788fc0622,王家成骨科,http://api.map.baidu.com/place/detail?uid=755550f21f1faf6788fc0622&output=html&source=jsapi,陕西省西安市碑林区南二环西段83号附近,null,null
+5cd525652b653229002b617a,20256e4ed3f50af7c27da2ca,西安医学院第一附属医院-5号楼,http://api.map.baidu.com/place/detail?uid=20256e4ed3f50af7c27da2ca&output=html&source=jsapi,陕西省西安市莲湖区土门西安医学院第一附属医院5号楼,null,"医疗,下属科室机构"
+5cd525652b653229002b617b,1b250a886865e8769ff7793c,莲湖区枣园第二社区卫生服务中心,http://api.map.baidu.com/place/detail?uid=1b250a886865e8769ff7793c&output=html&source=jsapi,陕西省西安市莲湖区大庆路911号北60米,null,null
+5cd525652b653229002b617c,ed80838d0a2f3a2a4d5547c7,陕西精密金属集团职工医院,http://api.map.baidu.com/place/detail?uid=ed80838d0a2f3a2a4d5547c7&output=html&source=jsapi,西安市莲湖区枣园东路2,null,null
+5cd525652b653229002b617d,7522a27bce42d54878dbd241,儿童医院-住院三部,http://api.map.baidu.com/place/detail?uid=7522a27bce42d54878dbd241&output=html&source=jsapi,西关街道西安市儿童医院(西门内西举院巷69号),null,null
+5cd525652b653229002b617e,48eb0058e495e2d02fe67b02,西安市第五医院住院-综合楼,http://api.map.baidu.com/place/detail?uid=48eb0058e495e2d02fe67b02&output=html&source=jsapi,西安市莲湖区西关正街112号,null,"医疗,下属科室机构"
+5cd525652b653229002b617f,13d1fc323ec03fb9ca29151b,王家成骨科(龙首北路店),http://api.map.baidu.com/place/detail?uid=13d1fc323ec03fb9ca29151b&output=html&source=jsapi,陕西省西安市莲湖区纬二十六街天赐苑9-2-201号,null,null
+5cd525652b653229002b6180,6821307c28456f4c08f5ebef,董家骨科,http://api.map.baidu.com/place/detail?uid=6821307c28456f4c08f5ebef&output=html&source=jsapi,西安市雁塔区,null,null
+5cd525652b653229002b6181,cad88a87b67e73c9e115f93d,西电眼视光中,http://api.map.baidu.com/place/detail?uid=cad88a87b67e73c9e115f93d&output=html&source=jsapi,桃园路街道丰登北路97号西电集团医院大门北侧,null,"医疗,专科医院,五官专科医院"
+5cd525652b653229002b6182,57f525a10f1e54a2afee7aab,西安市雁塔区康复医疗联合体,http://api.map.baidu.com/place/detail?uid=57f525a10f1e54a2afee7aab&output=html&source=jsapi,陕西省西安市雁塔区丈八北路8号附近,null,null
+5cd525652b653229002b6183,d5464cf85addf82afda77808,西安市儿童医院-药学楼,http://api.map.baidu.com/place/detail?uid=d5464cf85addf82afda77808&output=html&source=jsapi,西举院巷,null,"医疗,下属科室机构"
+5cd525652b653229002b6184,d26c6a8aff7d14c95b1093c9,刘昱良正骨,http://api.map.baidu.com/place/detail?uid=d26c6a8aff7d14c95b1093c9&output=html&source=jsapi,西安市雁塔区,18292812588,null
+5cd525652b653229002b6185,c87a31dc136dbf668c55ec2e,西安高新医院-医技楼,http://api.map.baidu.com/place/detail?uid=c87a31dc136dbf668c55ec2e&output=html&source=jsapi,团结南路16号,null,"医疗,下属科室机构"
+5cd525652b653229002b6186,8920f04e22d14a2d9a0050b5,鱼化寨医疗点,http://api.map.baidu.com/place/detail?uid=8920f04e22d14a2d9a0050b5&output=html&source=jsapi,西安市雁塔区鱼南村19号,null,null
+5cd525652b653229002b6187,a7c67c0cd241191827e0a093,电动车医院,http://api.map.baidu.com/place/detail?uid=a7c67c0cd241191827e0a093&output=html&source=jsapi,西安市雁塔区,null,null
+5cd525652b653229002b6188,c32d38bb2402950c3f9a5e48,西安市第五医院-行政楼,http://api.map.baidu.com/place/detail?uid=c32d38bb2402950c3f9a5e48&output=html&source=jsapi,西关正街112号,null,"医疗,下属科室机构"
+5cd525652b653229002b6189,d0d082cdaf043c29e81e9718,西安医学院第一附属医院-4号楼,http://api.map.baidu.com/place/detail?uid=d0d082cdaf043c29e81e9718&output=html&source=jsapi,陕西省西安市莲湖区西安医学院第一附属医院南50米,null,"医疗,下属科室机构"
+5cd525652b653229002b618a,71cf8ae596c690be4d776ea0,西电集团医院-办公楼,http://api.map.baidu.com/place/detail?uid=71cf8ae596c690be4d776ea0&output=html&source=jsapi,陕西省西安市莲湖区西电集团医院,null,"医疗,下属科室机构"
+5cd525652b653229002b618b,bc79519cd9f40e114354d7b3,保障楼,http://api.map.baidu.com/place/detail?uid=bc79519cd9f40e114354d7b3&output=html&source=jsapi,西安市团结南路16号,null,null
+5cd525652b653229002b618c,40a084ca52f1412a2b201af9,猫专科医院,http://api.map.baidu.com/place/detail?uid=40a084ca52f1412a2b201af9&output=html&source=jsapi,陕西省西安市莲湖区团结东路公交站(桃园路西),null,null
+5cd525652b653229002b618d,5e69060d540b514bfb42b255,西安医学院儿科教学医院,http://api.map.baidu.com/place/detail?uid=5e69060d540b514bfb42b255&output=html&source=jsapi,陕西省西安市莲湖区西举院巷63号,null,null
+5cd525652b653229002b618e,44a17adeb8a584dd3913fd3b,西安医学高等专科学校教学医院,http://api.map.baidu.com/place/detail?uid=44a17adeb8a584dd3913fd3b&output=html&source=jsapi,陕西省西安市莲湖区二环路沿线商业经济带星火路22号,null,null
+5cd57f1cbe9ddc45ecbac978,38e48037e20eb450373a71f8,空军军医大学(第四军医大学)西京医院,http://api.map.baidu.com/place/detail?uid=38e48037e20eb450373a71f8&output=html&source=jsapi,陕西省西安市新城区长乐西路127号,(029)84775507,"医疗,综合医院,三级医院"

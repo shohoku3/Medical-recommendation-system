@@ -33,6 +33,12 @@
 - [x] 数据接口 极限150条
 - [x] 单页容量 50
 - [x] python 操作写入并爬取更多数据
+#####05-11
+- [x] 爬虫爬取详细信息
+#####05-13
+- [x] 实现分省份的医院信息存储
+- [x] 实现页面信息展示
+- [x] 爬取页面评分并存储
 #### 参考
 - [A Programmer's Guide to Data Mining](http://www.guidetodatamining.com/)
 - [超级详细的协同过滤推荐系统+完整Python实现及结果](https://blog.csdn.net/qq_25948717/article/details/81839463)

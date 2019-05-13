@@ -14,30 +14,40 @@ var top_right_navigation = new BMap.NavigationControl({ anchor: BMAP_ANCHOR_TOP_
 
 map.addControl(top_left_control);
 map.addControl(top_left_navigation);
+
 var geolocation = new BMap.Geolocation();
 geolocation.getCurrentPosition(function(r) {
     if (this.getStatus() == BMAP_STATUS_SUCCESS) {
         var mk = new BMap.Marker(r.point);
         map.addOverlay(mk);
         map.panTo(r.point);
+        var gc = new BMap.Geocoder();
+        gc.getLocation(r.point, function(rs) {
+            var addComp = rs.addressComponents;
+            var province = addComp.province
+            console.log(province)
+            $.post("/content", { province:province});
+        })
         var local = new BMap.LocalSearch(map, {
             onSearchComplete: function(results) {
-                var totalPois=results.getNumPois()
-                console.log(totalPois);
+                var totalPois = results.getNumPois()
+                //console.log(totalPois);
                 var totalPages = results.getNumPages();
-                console.log(totalPages);
+                //console.log(totalPages);
                 var currPage = results.getPageIndex();
-                console.log(currPage);
+                //console.log(currPage);
                 if (currPage < totalPages - 1) {
-                    console.log(results.getCurrentNumPois());
+                    //console.log(results.getCurrentNumPois());
                     local.gotoPage(currPage + 1);
                     //console.log(JSON.stringify(local.getResults().Ar));
-                    var json =JSON.stringify(local.getResults().Ar);
-                    $.post("/content", {value:json});
+                    var json = JSON.stringify(local.getResults().Ar);
+                    var hosObj = eval(json)
+                    $.post("/content", { value:json});
                 } else {
                     console.log('Finish')
                 }
-            } ,pageCapacity:50
+            },
+            pageCapacity: 50
         });
         local.searchNearby('医院', r.point, 10000);
     } else {
