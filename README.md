@@ -26,12 +26,12 @@
 - [x] 实现content页面
 ##### 05-09
 - [x] 显示重复问题
-- [ ] dulpatekey 问题
+- [x] dulpatekey 问题
 - [x] 大于1km时出现以上问题
 ##### 05-10
 - [x] 实现跳页 但页面被限制在15页
 - [x] 数据接口 极限150条
-- [x] 单页容量 50
+- [x] 单页容量 10
 - [x] python 操作写入并爬取更多数据
 #####05-11
 - [x] 爬虫爬取详细信息
@@ -39,6 +39,17 @@
 - [x] 实现分省份的医院信息存储
 - [x] 实现页面信息展示
 - [x] 爬取页面评分并存储
+- [x] 爬取陕西地区的医院信息
+#### 后续工作
+- [ ] 基于协同过滤的推荐算法
+- [ ] 基于内容的推荐算法
+- [ ] 基于语义的情感分析
+- [ ] 爬虫结果和查询不一致问题 --模糊查询
+
+#### Usage
+> node index.js
+> mongod --dbpath d:\data\db
+> mongo.exe
 #### 参考
 - [A Programmer's Guide to Data Mining](http://www.guidetodatamining.com/)
 - [超级详细的协同过滤推荐系统+完整Python实现及结果](https://blog.csdn.net/qq_25948717/article/details/81839463)

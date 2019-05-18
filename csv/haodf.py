@@ -2,7 +2,7 @@ import csv
 import pymongo
 import bs4,requests
 import re
-url='https://www.haodf.com/yiyuan/gansu/list.htm'
+url='https://www.haodf.com/yiyuan/shanxi/list.htm'
 def getHTMLText(url):
 	fakeHeaders = {'user-agent':'Mozilla/5.0'}
 	proxies = { "http": "http://155.138.214.221:1002" }   
@@ -22,7 +22,7 @@ mongo_url = "127.0.0.1:27017"
 client = pymongo.MongoClient(mongo_url)
 DATABASE = "medical"
 db = client[DATABASE]
-COLLECTION =province+'医院信息表'
+COLLECTION =province
 db_coll = db[COLLECTION ]
 
 
